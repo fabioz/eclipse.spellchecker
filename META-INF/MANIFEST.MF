@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Spellchecker
 Bundle-SymbolicName: eclipse.spellchecker;singleton:=true
-Bundle-Version: 5.0.0.qualifier
+Bundle-Version: 5.0.1.qualifier
 Bundle-Activator: eclipse.spellchecker.Activator
 Bundle-Vendor: Brainwy Software Ltda
 Require-Bundle: org.eclipse.core.runtime,
